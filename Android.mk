@@ -6,6 +6,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),apollopro)
+ifeq ($(TARGET_DEVICE),apollo)
 
 endif

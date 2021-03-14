@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_KERNEL_PATH := device/xiaomi/apollopro-kernel
+DEVICE_KERNEL_PATH := device/xiaomi/apollo-kernel
 
 # Kernel
 TARGET_PREBUILT_KERNEL := $(DEVICE_KERNEL_PATH)/Image
